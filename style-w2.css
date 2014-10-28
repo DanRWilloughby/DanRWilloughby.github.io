@@ -61,7 +61,7 @@ a:hover {
   padding: 20px;
 }
 
-/* Make it so you can see the footer and center it */
+/* Make it so you can see the footer and center it and float to right */
 #footer {
   color: black;
   margin: 20px auto;
